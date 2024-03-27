@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-using ValueType = int;
+using ValueType = double;
 //! \brief Класс, реализующий С++ контейнер vector для типа int
 class Vector
 {
